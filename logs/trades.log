@@ -1,0 +1,136 @@
+INFO:root:BUY 5.9920 shares at 166.89 on 2023-10-26
+INFO:root:TARGET reached at 177.57 on 2023-11-02, P/L: 63.99
+INFO:root:BUY 5.7747 shares at 184.25 on 2024-01-03
+INFO:root:TARGET reached at 193.89 on 2024-01-22, P/L: 55.67
+INFO:root:BUY 6.0509 shares at 185.04 on 2024-02-13
+INFO:root:STOP-LOSS hit at 181.16 on 2024-02-26, P/L: -23.48
+INFO:root:BUY 6.0022 shares at 182.63 on 2024-02-27
+INFO:root:STOP-LOSS hit at 175.10 on 2024-03-04, P/L: -45.20
+INFO:root:BUY 6.1779 shares at 170.12 on 2024-03-05
+INFO:root:TARGET reached at 178.67 on 2024-03-20, P/L: 52.82
+INFO:root:BUY 5.0448 shares at 218.80 on 2024-07-30
+INFO:root:STOP-LOSS hit at 209.27 on 2024-08-05, P/L: -48.08
+INFO:root:BUY 5.0945 shares at 207.23 on 2024-08-06
+INFO:root:TARGET reached at 221.27 on 2024-08-13, P/L: 71.53
+INFO:root:BUY 5.1998 shares at 216.79 on 2024-09-17
+INFO:root:TARGET reached at 228.87 on 2024-09-19, P/L: 62.81
+INFO:root:BUY 5.3604 shares at 222.01 on 2024-11-04
+INFO:root:TARGET reached at 235.06 on 2024-11-26, P/L: 69.95
+INFO:root:BUY 5.3755 shares at 234.40 on 2025-01-13
+INFO:root:STOP-LOSS hit at 228.26 on 2025-01-16, P/L: -33.01
+INFO:root:BUY 5.3353 shares at 229.98 on 2025-01-17
+INFO:root:STOP-LOSS hit at 222.64 on 2025-01-21, P/L: -39.16
+INFO:root:BUY 5.3070 shares at 223.83 on 2025-01-22
+INFO:root:TARGET reached at 238.26 on 2025-01-28, P/L: 76.58
+INFO:root:BUY 4.7172 shares at 211.99 on 2023-10-20
+INFO:root:STOP-LOSS hit at 205.76 on 2023-10-26, P/L: -29.39
+INFO:root:BUY 4.6822 shares at 207.30 on 2023-10-27
+INFO:root:STOP-LOSS hit at 197.36 on 2023-10-30, P/L: -46.54
+INFO:root:BUY 4.6010 shares at 200.84 on 2023-10-31
+INFO:root:TARGET reached at 218.51 on 2023-11-02, P/L: 81.30
+INFO:root:BUY 4.5930 shares at 218.89 on 2024-01-12
+INFO:root:STOP-LOSS hit at 211.88 on 2024-01-18, P/L: -32.20
+INFO:root:BUY 4.5863 shares at 212.19 on 2024-01-19
+INFO:root:STOP-LOSS hit at 207.83 on 2024-01-24, P/L: -20.00
+INFO:root:BUY 5.2192 shares at 182.63 on 2024-01-25
+INFO:root:TARGET reached at 193.57 on 2024-02-09, P/L: 57.10
+INFO:root:BUY 5.0798 shares at 198.88 on 2024-08-05
+INFO:root:STOP-LOSS hit at 191.76 on 2024-08-07, P/L: -36.17
+INFO:root:BUY 4.8705 shares at 200.00 on 2024-08-09
+INFO:root:TARGET reached at 214.14 on 2024-08-15, P/L: 68.87
+INFO:root:BUY 4.7590 shares at 219.16 on 2024-10-14
+INFO:root:STOP-LOSS hit at 213.65 on 2024-10-23, P/L: -26.22
+INFO:root:BUY 2.8117 shares at 361.62 on 2025-02-07
+INFO:root:STOP-LOSS hit at 350.73 on 2025-02-10, P/L: -30.62
+INFO:root:BUY 3.0019 shares at 328.50 on 2025-02-11
+INFO:root:TARGET reached at 355.94 on 2025-02-13, P/L: 82.37
+INFO:root:BUY 3.1631 shares at 337.80 on 2025-02-21
+INFO:root:BUY 8.1011 shares at 123.44 on 2023-10-26
+INFO:root:TARGET reached at 130.37 on 2023-11-03, P/L: 56.14
+INFO:root:BUY 7.4502 shares at 141.76 on 2024-02-16
+INFO:root:STOP-LOSS hit at 138.75 on 2024-02-26, P/L: -22.43
+INFO:root:BUY 7.4864 shares at 138.08 on 2024-03-01
+INFO:root:STOP-LOSS hit at 134.20 on 2024-03-04, P/L: -29.05
+INFO:root:BUY 7.5099 shares at 133.78 on 2024-03-05
+INFO:root:TARGET reached at 140.77 on 2024-03-13, P/L: 52.49
+INFO:root:BUY 6.2495 shares at 169.16 on 2024-07-25
+INFO:root:STOP-LOSS hit at 160.64 on 2024-08-05, P/L: -53.25
+INFO:root:BUY 6.2534 shares at 160.54 on 2024-08-06
+INFO:root:TARGET reached at 168.96 on 2024-08-20, P/L: 52.65
+INFO:root:BUY 6.9452 shares at 152.13 on 2024-09-06
+INFO:root:TARGET reached at 160.28 on 2024-09-17, P/L: 56.60
+INFO:root:BUY 6.1305 shares at 181.58 on 2025-02-21
+INFO:root:BUY 5.5325 shares at 180.75 on 2024-05-24
+INFO:root:STOP-LOSS hit at 176.44 on 2024-05-31, P/L: -23.85
+INFO:root:BUY 5.4736 shares at 178.34 on 2024-06-03
+INFO:root:TARGET reached at 189.08 on 2024-06-21, P/L: 58.79
+INFO:root:BUY 5.6323 shares at 183.75 on 2024-07-18
+INFO:root:STOP-LOSS hit at 179.85 on 2024-07-25, P/L: -21.97
+INFO:root:BUY 5.5505 shares at 182.50 on 2024-07-26
+INFO:root:STOP-LOSS hit at 167.90 on 2024-08-02, P/L: -81.04
+INFO:root:BUY 5.7877 shares at 161.02 on 2024-08-05
+INFO:root:TARGET reached at 170.23 on 2024-08-13, P/L: 53.30
+INFO:root:BUY 4.5491 shares at 216.58 on 2025-02-21
+INFO:root:BUY 2.5055 shares at 399.12 on 2024-04-19
+INFO:root:STOP-LOSS hit at 389.33 on 2024-04-30, P/L: -24.53
+INFO:root:BUY 2.4699 shares at 394.94 on 2024-05-01
+INFO:root:TARGET reached at 414.74 on 2024-05-10, P/L: 48.90
+INFO:root:BUY 2.3884 shares at 428.90 on 2024-07-24
+INFO:root:STOP-LOSS hit at 418.40 on 2024-07-25, P/L: -25.08
+INFO:root:BUY 2.3498 shares at 425.27 on 2024-07-26
+INFO:root:STOP-LOSS hit at 408.49 on 2024-08-02, P/L: -39.43
+INFO:root:BUY 2.4291 shares at 395.15 on 2024-08-05
+INFO:root:TARGET reached at 416.86 on 2024-08-14, P/L: 52.74
+INFO:root:BUY 2.4725 shares at 409.54 on 2024-10-07
+INFO:root:TARGET reached at 431.95 on 2024-10-29, P/L: 55.41
+INFO:root:BUY 2.5515 shares at 418.58 on 2025-01-02
+INFO:root:TARGET reached at 446.20 on 2025-01-22, P/L: 70.47
+INFO:root:BUY 2.7671 shares at 411.44 on 2025-02-11
+INFO:root:BUY 2.8886 shares at 346.19 on 2023-10-18
+INFO:root:TARGET reached at 401.77 on 2023-10-19, P/L: 160.55
+INFO:root:BUY 2.1035 shares at 551.71 on 2024-05-01
+INFO:root:TARGET reached at 579.34 on 2024-05-03, P/L: 58.12
+INFO:root:BUY 1.8952 shares at 643.04 on 2024-07-18
+INFO:root:STOP-LOSS hit at 626.96 on 2024-07-29, P/L: -30.47
+INFO:root:BUY 1.9085 shares at 622.58 on 2024-07-30
+INFO:root:STOP-LOSS hit at 598.55 on 2024-08-05, P/L: -45.86
+INFO:root:BUY 1.3595 shares at 840.29 on 2025-01-13
+INFO:root:TARGET reached at 953.99 on 2025-01-22, P/L: 154.57
+INFO:root:BUY 24.5218 shares at 40.78 on 2023-10-31
+INFO:root:TARGET reached at 43.51 on 2023-11-02, P/L: 66.85
+INFO:root:BUY 14.0006 shares at 76.20 on 2024-04-19
+INFO:root:TARGET reached at 82.42 on 2024-04-23, P/L: 87.13
+INFO:root:BUY 11.1248 shares at 103.73 on 2024-07-30
+INFO:root:TARGET reached at 117.02 on 2024-07-31, P/L: 147.85
+INFO:root:BUY 12.2271 shares at 106.47 on 2024-09-09
+INFO:root:TARGET reached at 116.91 on 2024-09-11, P/L: 127.65
+INFO:root:BUY 2.4350 shares at 410.68 on 2023-10-27
+INFO:root:TARGET reached at 434.69 on 2023-11-03, P/L: 58.46
+INFO:root:BUY 2.1146 shares at 500.55 on 2024-04-17
+INFO:root:TARGET reached at 529.78 on 2024-05-15, P/L: 61.81
+INFO:root:BUY 2.1653 shares at 517.38 on 2024-08-05
+INFO:root:TARGET reached at 543.75 on 2024-08-14, P/L: 57.10
+INFO:root:BUY 2.9099 shares at 343.66 on 2023-10-26
+INFO:root:TARGET reached at 363.44 on 2023-11-02, P/L: 57.56
+INFO:root:BUY 2.5505 shares at 414.65 on 2024-04-19
+INFO:root:TARGET reached at 435.48 on 2024-05-03, P/L: 53.13
+INFO:root:BUY 2.4236 shares at 458.27 on 2024-07-25
+INFO:root:STOP-LOSS hit at 448.75 on 2024-08-02, P/L: -23.07
+INFO:root:BUY 2.4981 shares at 435.37 on 2024-08-05
+INFO:root:TARGET reached at 462.58 on 2024-08-13, P/L: 67.97
+INFO:root:BUY 5.3810 shares at 185.84 on 2024-01-17
+INFO:root:TARGET reached at 196.01 on 2024-03-04, P/L: 54.72
+INFO:root:BUY 4.9527 shares at 212.96 on 2024-05-03
+INFO:root:TARGET reached at 223.66 on 2024-05-17, P/L: 52.99
+INFO:root:BUY 4.6615 shares at 237.63 on 2024-11-13
+INFO:root:TARGET reached at 249.84 on 2024-11-22, P/L: 56.92
+INFO:root:BUY 41.2882 shares at 24.22 on 2024-05-03
+INFO:root:TARGET reached at 25.86 on 2024-05-09, P/L: 67.71
+INFO:root:BUY 42.0194 shares at 25.41 on 2024-07-25
+INFO:root:STOP-LOSS hit at 24.86 on 2024-08-05, P/L: -23.11
+INFO:root:BUY 42.3946 shares at 24.64 on 2024-08-06
+INFO:root:TARGET reached at 26.43 on 2024-08-16, P/L: 75.89
+INFO:root:BUY 40.0604 shares at 27.97 on 2024-11-11
+INFO:root:STOP-LOSS hit at 26.85 on 2024-12-18, P/L: -44.87
+INFO:root:BUY 40.6970 shares at 26.43 on 2024-12-30
+INFO:root:TARGET reached at 27.96 on 2025-01-15, P/L: 62.27
